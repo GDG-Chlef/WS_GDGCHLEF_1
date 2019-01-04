@@ -9,6 +9,8 @@ This project  has been simplified for those starting out with web development an
 #### Location : Centre de Loisirs Scientifiques "Ghoulam Mohammed" - CLS Chlef 
 #### Date     : 29 January 2018 
 
+##### you can view the template on github pages [this link](https://amine-louni.github.io/WEB_WS_GDGCHLEF_1/)
+
 
  
 
